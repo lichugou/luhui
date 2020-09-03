@@ -300,9 +300,9 @@ DOMAIN-SUFFIX,dfcfw.com
 DOMAIN-SUFFIX,docschina.org
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
-DOMAIN-SUFFIX,amonsul.douban.com:443
-DOMAIN-SUFFIX,douban.com:443
-DOMAIN-SUFFIX,push.douban.com:4392
+DOMAIN-SUFFIX,amonsul.douban.com
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,push.douban.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,dytt8.net
