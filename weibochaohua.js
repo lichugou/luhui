@@ -36,8 +36,6 @@ box订阅链接：https://raw.githubusercontent.com/toulanboy/scripts/master/tou
 *************************
 [script]
 cron "5 0 * * *" script-path=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/weibo/weibotalk.js, timeout=600, tag=微博超话
-http-request ^https?://m?api\.weibo\.c(n|om)\/2\/(cardlist|page\/button) script-path=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/weibo/weibotalk.cookie.js,requires-body=true, tag=微博超话cookie获取
-
 *************************
 【 QX 1.0.10+ 脚本配置 】 
 *************************
