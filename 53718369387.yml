@@ -10,31 +10,31 @@ proxies:
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇫🇷 Surfshark-France (2) 🇫🇷
     server: 185.166.84.21
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇫🇷 Surfshark-France (3) 🇫🇷
     server: 84.17.43.178
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇩🇪 Surfshark-Germany (1) 🇩🇪
     server: 152.89.163.23
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇩🇪 Surfshark-Germany (2) 🇩🇪
     server: 84.16.246.202
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇭🇰 Hong Kong
     server: 212.102.42.211
     port: 31140
@@ -94,103 +94,103 @@ proxies:
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇮🇳 Surfshark-India (3) 🇮🇳
     server: 103.108.117.133
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇮🇹 Surfshark-Italy (1) 🇮🇹
     server: 84.17.58.161
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇷🇺 Surfshark-Russia (2) 🇷🇺
     server: 213.183.56.160
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇸🇬 Surfshark-Singapore 🇸🇬
     server: 89.187.163.136
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: Surfshark-South Africa 🇿🇦
     server: 196.251.250.111
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇰🇷 Surfshark-South Korea 🇰🇷
     server: 27.255.77.195
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: Surfshark-Spain (1) 🇪🇸
     server: 196.196.150.85
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: Surfshark-Spain (2) 🇪🇸
     server: 212.102.48.10
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: Surfshark-Spain (3) 🇪🇸
     server: 37.120.142.135
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇨🇳 Surfshark-Taiwan 🇹🇼
     server: 103.98.74.227
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇹🇭 Surfshark-Thailand 🇹🇭
     server: 45.64.186.134
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: Surfshark-Vietnam 🇻🇳
     server: 202.143.111.213
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇬🇧 Surfshark-UK (1) 🇬🇧
     server: 185.193.36.208
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇬🇧 Surfshark-UK (2) 🇬🇧
     server: 86.106.136.77
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇬🇧 Surfshark-UK (3) 🇬🇧
     server: 185.108.105.33
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (1) 🇺🇸
     server: 154.16.169.3
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (2) 🇺🇸
     server: 107.175.104.86
     port: 37769
@@ -226,115 +226,115 @@ proxies:
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (8) 🇺🇸
     server: 66.115.166.147
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (9) 🇺🇸
     server: 148.72.174.48
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (10) 🇺🇸
     server: us-sdf.prod.surfshark.com
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (11) 🇺🇸
     server: 192.154.254.135
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (12) 🇺🇸
     server: 172.83.42.136
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (13) 🇺🇸
     server: 66.206.23.5
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (14) 🇺🇸
     server: 174.128.245.149
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (15) 🇺🇸
     server: 198.147.22.165
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (16) 🇺🇸
     server: 104.200.131.165
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (17) 🇺🇸
     server: 63.141.248.187
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (18) 🇺🇸
     server: 154.16.168.184
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (19) 🇺🇸
     server: 172.98.87.35
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (20) 🇺🇸
     server: 185.242.5.213
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (21) 🇺🇸
     server: 84.17.41.85
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (22) 🇺🇸
     server: 212.102.40.83
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (23) 🇺🇸
     server: 199.10.64.83
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (24) 🇺🇸
     server: 107.181.166.39
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 Surfshark-USA (25) 🇺🇸
     server: 38.95.110.67
     port: 36133
     type: ss
     cipher: aes-256-gcm
-    password: 123
+    password: xPNTeRxDB3u2ASfGmRj5V7GV
   - name: 🇺🇸 USA · Houston
     server: 199.10.64.83
     port: 31140
