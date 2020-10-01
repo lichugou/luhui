@@ -7,190 +7,190 @@ external-controller: :9090
 proxies:
   - name: 🇫🇷 Surfshark-France (1) 🇫🇷
     server: 185.108.106.21
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇫🇷 Surfshark-France (2) 🇫🇷
     server: 185.166.84.21
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇫🇷 Surfshark-France (3) 🇫🇷
     server: 84.17.43.178
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇩🇪 Surfshark-Germany (1) 🇩🇪
     server: 152.89.163.23
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇩🇪 Surfshark-Germany (2) 🇩🇪
     server: 84.16.246.202
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇭🇰 Hong Kong
     server: 212.102.42.211
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇭🇰 Hong Kong 2
     server: 84.17.57.185
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇭🇰 Hong Kong 3
     server: 212.102.42.194
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇭🇰 Hong Kong 4
     server: 84.17.57.66
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇭🇰 Hong Kong 5
     server: 84.17.57.148
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇭🇰 Hong Kong 6
     server: 212.102.42.196
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇭🇰 Hong Kong 7
     server: 84.17.37.158
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇭🇰 Hong Kong 8
     server: 84.17.37.154
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇭🇰 Hong Kong 9
     server: 84.17.57.71
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇮🇳 Surfshark-India (1) 🇮🇳
     server: 165.231.253.165
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇮🇳 Surfshark-India (3) 🇮🇳
     server: 103.108.117.133
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇮🇹 Surfshark-Italy (1) 🇮🇹
     server: 84.17.58.161
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇷🇺 Surfshark-Russia (2) 🇷🇺
     server: 213.183.56.160
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Surfshark-Singapore 🇸🇬
     server: 89.187.163.136
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: Surfshark-South Africa 🇿🇦
     server: 196.251.250.111
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇰🇷 Surfshark-South Korea 🇰🇷
     server: 27.255.77.195
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: Surfshark-Spain (1) 🇪🇸
     server: 196.196.150.85
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: Surfshark-Spain (2) 🇪🇸
     server: 212.102.48.10
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: Surfshark-Spain (3) 🇪🇸
     server: 37.120.142.135
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Surfshark-Taiwan 🇹🇼
     server: 103.98.74.227
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇹🇭 Surfshark-Thailand 🇹🇭
     server: 45.64.186.134
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: Surfshark-Vietnam 🇻🇳
     server: 202.143.111.213
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇬🇧 Surfshark-UK (1) 🇬🇧
     server: 185.193.36.208
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇬🇧 Surfshark-UK (2) 🇬🇧
     server: 86.106.136.77
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇬🇧 Surfshark-UK (3) 🇬🇧
     server: 185.108.105.33
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (1) 🇺🇸
     server: 154.16.169.3
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (2) 🇺🇸
     server: 107.175.104.86
     port: 37769
@@ -223,484 +223,484 @@ proxies:
     password: 4u3u2hUTWzY2g474eNLLyDvh
   - name: 🇺🇸 Surfshark-USA (7) 🇺🇸
     server: 74.119.146.131
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (8) 🇺🇸
     server: 66.115.166.147
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (9) 🇺🇸
     server: 148.72.174.48
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (10) 🇺🇸
     server: us-sdf.prod.surfshark.com
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (11) 🇺🇸
     server: 192.154.254.135
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (12) 🇺🇸
     server: 172.83.42.136
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (13) 🇺🇸
     server: 66.206.23.5
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (14) 🇺🇸
     server: 174.128.245.149
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (15) 🇺🇸
     server: 198.147.22.165
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (16) 🇺🇸
     server: 104.200.131.165
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (17) 🇺🇸
     server: 63.141.248.187
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (18) 🇺🇸
     server: 154.16.168.184
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (19) 🇺🇸
     server: 172.98.87.35
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (20) 🇺🇸
     server: 185.242.5.213
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (21) 🇺🇸
     server: 84.17.41.85
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (22) 🇺🇸
     server: 212.102.40.83
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (23) 🇺🇸
     server: 199.10.64.83
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (24) 🇺🇸
     server: 107.181.166.39
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 Surfshark-USA (25) 🇺🇸
     server: 38.95.110.67
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston
     server: 199.10.64.83
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Las Vegas
     server: 185.242.5.149
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Los Angeles
     server: 38.95.110.69
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · San Francisco
     server: 107.181.166.227
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Denver
     server: 212.102.44.81
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston 2
     server: 104.148.30.53
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Bend
     server: 45.43.14.93
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Dallas
     server: 212.102.40.68
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Las Vegas 2
     server: 185.242.5.211
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Las Vegas 3
     server: 45.89.173.205
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · San Francisco 2
     server: 107.181.166.39
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · San Francisco 3
     server: 107.181.166.35
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · San Francisco 4
     server: 107.181.166.55
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · San Francisco 5
     server: 107.181.166.37
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston 3
     server: 104.148.30.51
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Dallas 2
     server: 212.102.40.66
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · San Francisco 6
     server: 107.181.166.229
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Phoenix
     server: 172.98.87.37
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston 4
     server: 199.10.64.115
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Dallas 3
     server: 212.102.40.81
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · San Francisco 7
     server: 107.181.166.85
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Bend 2
     server: 45.43.14.95
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Denver 2
     server: 174.128.245.151
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · San Francisco 8
     server: 107.181.166.83
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Denver 3
     server: 212.102.44.71
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · San Francisco 9
     server: 198.8.81.37
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Dallas 4
     server: 212.102.40.71
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston 5
     server: 199.10.64.117
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Denver 4
     server: 212.102.44.98
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston 6
     server: 199.10.64.69
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston 7
     server: 199.10.64.101
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Phoenix 2
     server: 184.170.240.181
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston 8
     server: 104.148.30.85
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Bend 3
     server: 154.16.168.184
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Salt Lake City
     server: 104.200.131.9
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Denver 5
     server: 212.102.44.96
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Bend 4
     server: 45.43.14.85
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston 9
     server: 199.10.64.67
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Denver 6
     server: 212.102.44.68
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston 10
     server: 104.148.30.39
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · St. Louis
     server: 148.72.174.53
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Phoenix 3
     server: 199.58.187.10
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Seattle
     server: 84.17.41.81
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Salt Lake City 2
     server: 104.200.131.170
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Denver 7
     server: 212.102.44.66
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Seattle 2
     server: 199.229.250.167
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Dallas 5
     server: 212.102.40.76
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Phoenix 4
     server: 184.170.240.179
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · St. Louis 2
     server: 148.72.174.38
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · St. Louis 3
     server: 148.72.170.108
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Denver 8
     server: 174.128.245.3
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Dallas 6
     server: 212.102.40.78
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Salt Lake City 3
     server: 104.200.131.233
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Denver 9
     server: 212.102.44.91
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Dallas 7
     server: 89.187.175.165
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston 11
     server: 199.10.64.99
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Phoenix 5
     server: 107.181.184.117
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Las Vegas 4
     server: 185.242.5.147
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Houston 12
     server: 199.10.64.85
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Salt Lake City 4
     server: 104.200.131.7
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 USA · Las Vegas 5
     server: 185.242.5.157
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 ibmusa-header-dx1
     server: 104.16.106.200
     port: 443
@@ -751,394 +751,394 @@ proxies:
       Host: wispy-frost-d728.jokerlee2020.workers.dev
   - name: 🇸🇬 Singapore
     server: 156.146.56.132
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 2
     server: 89.187.163.136
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 3
     server: 89.187.163.212
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 4
     server: 89.187.162.186
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 5
     server: 89.187.163.200
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 6
     server: 89.187.163.215
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 7
     server: 89.187.163.134
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 8
     server: 89.187.163.217
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 9
     server: 89.187.163.207
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 10
     server: 89.187.163.210
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 11
     server: 156.146.56.130
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 12
     server: 89.187.163.205
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 13
     server: 89.187.163.132
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 14
     server: 89.187.163.197
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 15
     server: 89.187.163.195
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 16
     server: 89.187.163.202
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 17
     server: 156.146.56.137
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 18
     server: 89.187.162.188
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 19
     server: 89.187.163.130
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇸🇬 Singapore 20
     server: 156.146.56.135
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇰🇷 South Korea · Seoul
     server: 103.249.28.229
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇰🇷 South Korea · Seoul 2
     server: 27.255.77.197
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇰🇷 South Korea · Seoul 3
     server: 61.14.210.232
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan
     server: 103.98.74.227
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 2
     server: 2.58.241.45
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 3
     server: 2.58.241.29
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 4
     server: 2.58.242.155
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 5
     server: 2.58.241.43
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 6
     server: 103.4.29.242
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 7
     server: 2.58.242.43
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 8
     server: 2.58.241.5
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 9
     server: 103.51.140.70
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 10
     server: 2.58.242.157
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 11
     server: 2.58.241.27
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 12
     server: 2.58.242.45
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 13
     server: 103.98.75.73
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 14
     server: 103.98.75.71
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇨🇳 Taiwan 15
     server: 103.98.74.229
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇮🇩 Indonesia · Jakarta
     server: 103.120.66.221
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo
     server: 84.17.34.46
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 2
     server: 89.187.161.4
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 3
     server: 45.87.213.85
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 4
     server: 45.87.213.83
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 5
     server: 89.187.161.2
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 6
     server: 45.87.213.7
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 7
     server: 45.87.213.243
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 8
     server: 89.187.161.239
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 9
     server: 84.17.34.24
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 10
     server: 45.87.213.101
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 11
     server: 45.87.213.245
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 12
     server: 45.87.213.3
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 13
     server: 89.187.161.241
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 14
     server: 103.208.221.227
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 15
     server: 185.242.4.163
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 16
     server: 45.87.213.103
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 17
     server: 45.87.213.211
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 18
     server: 45.87.213.5
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 19
     server: 84.17.34.44
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇯🇵 Japan · Tokyo 20
     server: 84.17.34.26
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇧🇷 巴西1
     server: 191.96.73.216
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇧🇷 巴西2
     server: 191.96.73.212
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇧🇷 巴西3
     server: 191.96.73.210
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇧🇷 巴西4
     server: 191.96.73.214
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇮🇳 India · Mumbai
     server: 165.231.253.147
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇮🇳 India · Mumbai 2
     server: 103.221.233.88
-    port: 38102
+    port: 34651
     type: ss
     cipher: aes-256-gcm
-    password: PfxL2yqAeW4dNyJDmfBjWytK
+    password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: United States 🇺🇸 41
     type: ss
     server: 107.181.166.83
