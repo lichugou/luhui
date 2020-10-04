@@ -703,7 +703,7 @@ proxies:
     password: fQrrhJUGWCGRfgvJgPDDX5sN
   - name: 🇺🇸 ibmusa-header-dx1
     server: 104.16.106.200
-    port: 443
+    port: 4433
     type: vmess
     uuid: 8c35bef3-d51f-41ab-ac87-7b053410495b
     alterId: 64
@@ -715,7 +715,7 @@ proxies:
       Host: plain-block-439f.jokerlee2020.workers.dev
   - name: 🇺🇸 usavpn-header-60
     server: 104.23.140.209
-    port: 443
+    port: 4433
     type: vmess
     uuid: 8c35bef3-d51f-41ab-ac87-7b053410495b
     alterId: 64
@@ -727,7 +727,7 @@ proxies:
       Host: wispy-frost-d728.jokerlee2020.workers.dev
   - name: 🇺🇸 usavpn-header-55
     server: 104.20.110.15
-    port: 443
+    port: 4433
     type: vmess
     uuid: 8c35bef3-d51f-41ab-ac87-7b053410495b
     alterId: 64
@@ -739,7 +739,7 @@ proxies:
       Host: wispy-frost-d728.jokerlee2020.workers.dev
   - name: 🇺🇸 usavpn-header
     server: cloudflare.com
-    port: 443
+    port: 4433
     type: vmess
     uuid: 8c35bef3-d51f-41ab-ac87-7b053410495b
     alterId: 64
